@@ -1,4 +1,4 @@
-# Beginner Stock Analysis: a skill for Claude
+# Stock Analysis Lite: a skill for Claude
 
 A free [Claude](https://claude.ai) skill that turns a **stock name, ticker or ISIN** into a short, plain-language valuation snapshot, built for inexperienced investors and designed to teach as it goes.
 
